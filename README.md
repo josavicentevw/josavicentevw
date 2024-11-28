@@ -8,9 +8,10 @@ Hi! 👋 My name is Josa
 * ⚡   In my free time I build mechanical keyboards, paint miniatures and play video games
 
 
+
 ## My apps:
-[![Bullets](Bullets)](https://apps.apple.com/es/app/bullets/id1536420851)
-Figure Paint Collector[![Figure Paint Collector](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/gt/app/figure-paint-collector/id6737073017)
+* ![Bullets](https://apps.apple.com/es/app/bullets/id1536420851)
+* [!Figure Paint Collector](https://apps.apple.com/gt/app/figure-paint-collector/id6737073017)
 
 ## Languages & frameworks:
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)]()
