@@ -9,7 +9,7 @@ Hi! 👋 My name is Josa
 
 
 ## My apps:
-Bullets[![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
+[![Bullets](Bullets)](https://apps.apple.com/es/app/bullets/id1536420851)
 Figure Paint Collector[![Figure Paint Collector](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/gt/app/figure-paint-collector/id6737073017)
 
 ## Languages & frameworks:
