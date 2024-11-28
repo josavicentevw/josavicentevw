@@ -9,8 +9,8 @@ Hi! 👋 My name is Josa
 
 
 ## My apps:
-[![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
-[![Figure Paint Collector](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/gt/app/figure-paint-collector/id6737073017)
+Bullets[![Bullets](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/es/app/bullets/id1536420851)
+Figure Paint Collector[![Figure Paint Collector](https://raw.githubusercontent.com/josavicente/josavicente/master/AppStore.png)](https://apps.apple.com/gt/app/figure-paint-collector/id6737073017)
 
 ## Languages & frameworks:
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)]()
