@@ -1,12 +1,11 @@
 Hi! 👋 My name is Josa 
 =============================
 
-* 🌍  I'm based in Barcelona 
+* 🌍  I'm based in Barcelona
+* 🥷  I've currently the rol of Engineer Manager/Team Lead
 * 🧒  I'm a father of two
-* ✉️  You can contact me at [jvicenpe@gmail.com](mailto:jvicenpe@gmail.com) 
 * 🧠  I'm interested on improving Swift and learning React, Kotlin, Java.
-* 🤝  I'm open to collaborating on anything where I can learn 
-* ⚡   In my free time I build mechanical keyboards and play video games
+* ⚡   In my free time I build mechanical keyboards, paint miniatures and play video games
 
 
 ## My apps:
